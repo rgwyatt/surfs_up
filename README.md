@@ -1,1 +1,16 @@
 # surfs_up
+## OVERVIEW
+
+### PURPOSE
+
+## RESULTS
+
+### WEATHER DIFFERENCES B/W JUNE AND DECEMBER
+1. 
+2. 
+3. 
+## SUMMARY
+
+### ADDITIONAL QUERIES
+1. 
+2. 
